@@ -1,6 +1,6 @@
 object TestListVal {
   def main(array: Array[String]): Unit = {
-      var list : List[Any] = List(
+      val list : List[Any] = List(
         "a string",
         123,
         'c',
